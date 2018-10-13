@@ -108,30 +108,35 @@
                         <span class="text">Profile</span>
                     </a>
                 </li>
+                <!--
                 <li>
                     <a href="/dashboard/myevents">
                         <span class="icon icon-calendar"></span>
                         <span class="text">Events</span>
                     </a>
                 </li>
+                    -->
                 <li>
                     <a href="/dashboard/settings">
                         <span class="icon icon-settings"></span>
                         <span class="text">Settings</span>
                     </a>
                 </li>
+                <!--
                 <li>
                     <a href="/dashboard/mytasks" >
                         <span class="icon icon-note"></span>
                         <span class="text">Tasks</span>
                     </a>
                 </li>
-                <li>
+                    
+               <li>
                     <a href="http://www.careerskillsincubator.com/programs/resources/" target="_blank">
                         <span class="icon icon-folder"></span>
                         <span class="text">Resources</span>
                     </a>
                 </li>
+                    -->
                 <li>
                     <a href="/logout" class="logout">
                         <span class="sub-text">LOG OUT</span>
