@@ -6,6 +6,10 @@
     * For MAC:
          * `curl -s https://php-osx.liip.ch/install.sh | bash -s 5.4`
          * `export PATH=/usr/local/php5/bin:$PATH`
+    * For Windows:
+         * Download from https://windows.php.net/downloads/releases/archives/php-5.4.8-Win32-VC9-x86.zip
+         * Extract to `C:\php`
+         * Add `C:\php` to your system `PATH` variable
 * MySQL 5.1+
 
 # installation instructions
@@ -31,7 +35,7 @@ Steps:
 1. configure `php.ini` (located in the `php` folder):
     1. set `date.timezone = UTC`
     1. set extensions for MySQL:
-        1. `extension_dir = "C:\php\v5.4.9\ext"` (or wherever the `ext` folder is)
+        1. `extension_dir = "C:\php\ext"`
         1. `extension=php_mysqli.dll`
 
 Optional:
