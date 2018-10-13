@@ -167,7 +167,7 @@
                                             <td width="169" height="45" align="center">
                                                 <div class="imgpop">
                                                     <a target="_blank" href="<?=base_url()?>">
-                                                        <h1>Menteer</h1>
+                                                        <h1>Global HERizons</h1>
                                                     </a>
                                                 </div>
                                             </td>

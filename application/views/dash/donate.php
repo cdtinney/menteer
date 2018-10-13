@@ -3,7 +3,7 @@
 
         <div class="form-block">
 
-            <h1>Support Menteer</h1>
+            <h1>Support Global HERizons</h1>
 
             <?= $this->session->flashdata('message'); ?>
 

@@ -23,7 +23,7 @@
             <div class="modal-header">
                 <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
                 <h3 id="loginModalLabel" class="modal-title text-center">Password Reset</h3>
-                <p>Just let us know the email you use to sign in to Menteer and we'll help you get your password back.</p>
+                <p>Just let us know the email you use to sign in to Global HERizons and we'll help you get your password back.</p>
             </div>
             <div class="modal-body">
                 <div class="login-form-container">
