@@ -60,7 +60,7 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:" . md5(uniqid(mt_rand(), true)) . "menteer.ca
+UID:" . md5(uniqid(mt_rand(), true)) . "localherizons.ca
 DTSTAMP:" . gmdate('Ymd').'T'. gmdate('His') . "Z
 DTSTART:".$date."T".$startTime."00Z
 DTEND:".$date."T".$endTime."00Z

@@ -100,7 +100,7 @@
 										<tr>
 											<td width="30" height="30" align="right">
 												<div class="imgpop">
-													<a target="_blank" href="https://www.facebook.com/CareerSkillsIncubator">
+													<a target="_blank" href="https://www.facebook.com/GlobalHERizons">
 														<img src="<?=base_url()?>assets/images/email/facebook.png" alt="" border="0" width="30" height="30" style="display:block; border:none; outline:none; text-decoration:none;">
 													</a>
 												</div>
@@ -108,7 +108,7 @@
 											<td align="left" width="20" style="font-size:1px; line-height:1px;">&nbsp;</td>
 											<td width="30" height="30" align="center">
 												<div class="imgpop">
-													<a target="_blank" href="https://twitter.com/CSCIncubator">
+													<a target="_blank" href="https://twitter.com/globalherizons">
 														<img src="<?=base_url()?>assets/images/email/twitter.png" alt="" border="0" width="30" height="30" style="display:block; border:none; outline:none; text-decoration:none;">
 													</a>
 												</div>
@@ -116,7 +116,7 @@
 											<td align="left" width="20" style="font-size:1px; line-height:1px;">&nbsp;</td>
 											<td width="30" height="30" align="center">
 												<div class="imgpop">
-													<a target="_blank" href="https://www.linkedin.com/vsearch/p?company=Career+Skills+Incubator&trk=prof-0-ovw-curr_pos">
+													<a target="_blank" href="https://www.linkedin.com/company/global-herizons">
 														<img src="<?=base_url()?>assets/images/email/linkedin.png" alt="" border="0" width="30" height="30" style="display:block; border:none; outline:none; text-decoration:none;">
 													</a>
 												</div>
@@ -188,7 +188,7 @@
 										<!-- Title -->
 										<tr>
 											<td>
-												<center><img src="<?=base_url()?>assets/images/item-logo.png" alt="Menteer.ca" border="0" width="179" height="131" style="display:block; border:none; outline:none; text-decoration:none;"></center>
+												<center><img src="<?=base_url()?>assets/images/item-logo.png" alt="GlobalHerizons.ca" border="0" width="179" height="131" style="display:block; border:none; outline:none; text-decoration:none;"></center>
 											</td>
 										</tr>
 										<tr>
@@ -205,7 +205,7 @@
 										<!-- content -->
 										<tr>
 											<td style="font-family: Helvetica, arial, sans-serif; font-size: 16px; color: #666666; text-align:center; line-height: 30px;" st-content="fulltext-content">
-												<p>Thanks for signing up with Menteer! You must follow this link to activate your account:</p>
+												<p>Thanks for signing up with Global Herizons! You must follow this link to activate your account:</p>
 
 												<p>&nbsp;</p>
 
@@ -215,7 +215,7 @@
 
 												<p>Have fun, and don't hesitate to contact us with your feedback.</p>
 
-												<p>The Menteer Team<br />https://www.menteer.ca</p>
+												<p>The Global Herizons Team<br />https://www.globalherizons.ca</p>
 											</td>
 										</tr>
 
@@ -307,7 +307,7 @@
 							<tbody>
 							<tr>
 								<td align="center" valign="middle" style="line-height:15px; font-family: Helvetica, arial, sans-serif; font-size: 14px;color: #666666" st-content="postfooter">
-									&copy; <?=date('Y')?> <a href="<?=base_url()?>">Menteer.ca</a> | Regent park 585 Dundas St E, Toronto ON M5A 2B7 Canada <br /> <a href="<?=base_url()?>dashboard" style="text-decoration: none; color: #b92c28">Manage Notifications</a> | <a href="<?=base_url()?>privacy" style="text-decoration: none; color: #b92c28">Privacy</a>
+									&copy; <?=date('Y')?> <a href="<?=base_url()?>">GlobalHerizons.ca</a><br /> <a href="<?=base_url()?>dashboard" style="text-decoration: none; color: #b92c28">Manage Notifications</a> | <a href="<?=base_url()?>privacy" style="text-decoration: none; color: #b92c28">Privacy</a>
 								</td>
 
 							</tr>

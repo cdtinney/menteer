@@ -1001,7 +1001,7 @@ class Dashboard extends CI_Controller
             $this->email->clear();
             $this->email->from($this->config->item('admin_email', 'ion_auth'), $this->config->item('site_title', 'ion_auth'));
             $this->email->to($this->user['email']);
-            $this->email->subject('Welcome to Menteer.ca');
+            $this->email->subject('Welcome to GlobalHerizons.ca');
             $this->email->message($message);
 
             $result = $this->email->send(); // @todo handle false send result

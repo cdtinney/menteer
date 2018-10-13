@@ -93,7 +93,7 @@ LOCK TABLES `users` WRITE;
 
 INSERT INTO `users` (`id`, `ip_address`, `username`, `password`, `salt`, `email`, `activation_code`, `forgotten_password_code`, `forgotten_password_time`, `remember_code`, `created_on`, `last_login`, `active`, `first_name`, `last_name`, `company`, `phone`)
 VALUES
-	(1,'127.0.0.1','administrator','$2y$08$dxM6uLEKd5yIyBWVKNvOMOZmTqJt.yxQCmhHMfoA56zeXO41prBKK','','test@menteer.ca','',NULL,NULL,NULL,1268889823,1417970057,1,'Admin','istrator','ADMIN','0');
+	(1,'127.0.0.1','administrator','$2y$08$dxM6uLEKd5yIyBWVKNvOMOZmTqJt.yxQCmhHMfoA56zeXO41prBKK','','test@globalherizons.ca','',NULL,NULL,NULL,1268889823,1417970057,1,'Admin','istrator','ADMIN','0');
 
 /*!40000 ALTER TABLE `users` ENABLE KEYS */;
 UNLOCK TABLES;
