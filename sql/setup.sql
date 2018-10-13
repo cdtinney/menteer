@@ -1,6 +1,9 @@
 # Dump of table groups
 # ------------------------------------------------------------
 
+#Fixes foreign key error when running this script.
+SET FOREIGN_KEY_CHECKS=0;
+
 DROP TABLE IF EXISTS `groups`;
 
 CREATE TABLE `groups` (
