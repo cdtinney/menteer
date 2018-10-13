@@ -3,9 +3,9 @@
 # requirements
 
 * PHP 5.4.9
-            For MAC:
-            1. curl -s https://php-osx.liip.ch/install.sh | bash -s 5.4
-            2. export PATH=/usr/local/php5/bin:$PATH
+    * For MAC:
+         * `curl -s https://php-osx.liip.ch/install.sh | bash -s 5.4`
+         * `export PATH=/usr/local/php5/bin:$PATH`
 * MySQL 5.1+
 
 # installation instructions
