@@ -57,7 +57,7 @@
     <div class="section win-height item-color last" id="login" style="min-height:800px;">
         <div class="container">
             <div class="row">
-                <div class="col-sm-6">
+                <div class="col-sm-6 col-sm-offset-3">
                     <section class="contact-box">
                         <h1>LOG IN <?=$this->session->userdata('demo')==1? '(DEMO)': ''; ?></h1>
 
@@ -83,17 +83,6 @@
                             </div>
                         <?php echo form_close();?>
 
-                    </section>
-                </div>
-                <div class="col-sm-6">
-                    <section class="contact-box">
-                        <h1>CONTACT</h1>
-                        <div class="map-box">
-
-                            <iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.ca/maps?q=585+Dundas+St+E,+Toronto,+ON+M5A+2B7&amp;ie=UTF8&amp;hq=&amp;hnear=585+Dundas+St+E,+Toronto,+Ontario+M5A+2B7&amp;ll=43.660077,-79.362063&amp;spn=0.00676,0.01074&amp;t=m&amp;z=14&amp;output=embed"></iframe><br /><small><a href="https://maps.google.ca/maps?q=585+Dundas+St+E,+Toronto,+ON+M5A+2B7&amp;ie=UTF8&amp;hq=&amp;hnear=585+Dundas+St+E,+Toronto,+Ontario+M5A+2B7&amp;ll=43.660077,-79.362063&amp;spn=0.00676,0.01074&amp;t=m&amp;z=14&amp;source=embed" style="color:#0000FF;text-align:left"></a></small>
-
-                        </div>
-                        <address><a href="mailto:info@careerskillsincubator.com">info@careerskillsincubator.com</a><br />Regent Park 585 Dundas St E<br> Toronto, ON M5A 2B7 Canada </address>
                     </section>
                 </div>
             </div>
