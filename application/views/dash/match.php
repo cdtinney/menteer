@@ -83,9 +83,11 @@
 
                                         <div style="clear:both;"></div>
 
+                                        <!--
                                         <p style="font-size:.8em; text-align: center;" ><span class="glyphicon glyphicon-envelope" aria-hidden="true"></span> <a href="#" data-toggle="modal" data-target="#myModalMessage">Send Message</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                                             <span class="glyphicon glyphicon-plus" aria-hidden="true"></span> <a href="#" data-toggle="modal" data-target="#myModalMeeting">Book Meeting</a></p>
 
+                                        -->
                                         <div style="clear:both;"></div>
 
 
