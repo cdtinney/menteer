@@ -24,7 +24,8 @@ features
 
 * drop and go code-base (minimal setup required)
 
-* PHP 5.4+ and MySQL 5.1 required
+* PHP 5.4.9 and MySQL 5.1 required
+  * PHP 7+ will not work due to deprecations
 
 
 technology stack / open source
