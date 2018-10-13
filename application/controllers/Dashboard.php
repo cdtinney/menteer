@@ -496,6 +496,7 @@ class Dashboard extends CI_Controller
     // edit questionnaire
     public function myintake()
     {
+        // TODO Use questionnaire/intake based on type
 
         $this->load->model('Questionnaire_model');
         $this->load->model('Matcher_model');

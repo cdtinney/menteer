@@ -11,13 +11,13 @@
  *
  */
 
-class Questionnaire_model extends CI_Model
+class Mentor_Questionnaire_model extends CI_Model
 {
 
     public function __construct()
     {
         parent::__construct();
-        $this->tb = 'questionnaire';
+        $this->tb = 'mentor_questionnaire';
 
     }
 
@@ -55,7 +55,7 @@ class Questionnaire_model extends CI_Model
 
         foreach ($data as $item){
 
-            $sql = "SELECT * FROM questionnaire_answers WHERE questionnaire_id = " . $item['id'] . ' ORDER BY position ASC';
+            $sql = "SELECT * FROM mentor_questionnaire_answers WHERE questionnaire_id = " . $item['id'] . ' ORDER BY position ASC';
             $answer_data = $this->db->query($sql)->result_array();
 
             $ret[$item['id']] = $item;
