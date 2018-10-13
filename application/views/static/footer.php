@@ -12,9 +12,9 @@
 
                     </ul>
                     <ul class="social-networks">
-                        <li><a class="icon-facebook" href="https://www.facebook.com/CareerSkillsIncubator"></a></li>
-                        <li><a class="icon-twitter" href="https://twitter.com/CSCIncubator"></a></li>
-                        <li><a class="icon-linkedin" href="https://www.linkedin.com/vsearch/p?company=Career+Skills+Incubator&trk=prof-0-ovw-curr_pos"></a></li>
+                        <li><a class="icon-facebook" href="https://www.facebook.com/GlobalHERizons/"></a></li>
+                        <li><a class="icon-twitter" href="https://twitter.com/globalherizons"></a></li>
+                        <li><a class="icon-linkedin" href="https://www.linkedin.com/company/global-herizons"></a></li>
                     </ul>
                     <span class="copyright text-center">&copy; <?=date('Y');?> Career Skills Incubator  | <a href="/privacy">Privacy Policy</a></span>
                 </div>
