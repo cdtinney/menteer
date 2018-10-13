@@ -64,7 +64,7 @@
 
     switch($_SERVER['HTTP_HOST']){
 
-        case "www.menteer.dev":
+        case "localhost:8000":
             define('ENVIRONMENT','development');
             break;
         default:
